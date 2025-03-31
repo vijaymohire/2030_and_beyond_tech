@@ -1,0 +1,2 @@
+Quantum communication related files. These includes pure quantum nw, integrated quantum classical nw, quantum overlay nw. These have various architecures and serve different purposes. Currently pure quantum nw is the one that is being researched. This leads to the 
+integrated quantum classical nw that can be part of the 6G based quantum IIoT, quantum datacenter, quantum internet etc. Quantum overlay is a futuristic model that encapsulates classical payloads and secures then using quantum security infra.  
