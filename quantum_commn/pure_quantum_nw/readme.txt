@@ -1,0 +1,2 @@
+This is a research based quantum networks that has been used by various R&D labs and research centers. These typically have various functions that can be leveraged by the, integrated quantum internet,allowing for 
+easier scaling using classical protocols and certain quantum functions that are incldued along the classical protocol stack that allow for easier and more secure classical communciation.   
