@@ -1,0 +1,3 @@
+This is the futuristic era NW that is suitable for the FTQC computers. This will supersede most of the classical nw with major functions and features being developed by the quantum internet. The quantum nw will 
+handle and manage the classical nw when its capabilites and maturity exceed that of the classical nw that is now limited by the electron era chip size, segmented and bad classical nw features, being stateless etc. The
+NexGen quantum nw will be stateful by use of entangled nw and also provide various types of secuirty features that can include passwordless identification, biometrics, higher resilency, high error rate mitigations, etc 
