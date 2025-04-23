@@ -1,0 +1,1 @@
+Quantum computer Arch, quantum firmware, OS, client server arch, local and non local processes, Transpiler, Heralded qubits, Reservoir, Distributed protocols, entanglement, teleportation, Hardware, Firmware, Os layers for various motherboard topologies, interconnect, memory, cpu,gpu,tpu, QPU protocols, accelerator models, master slave models, computing node arch
