@@ -1,0 +1,1 @@
+This holds all the theories that are futuristic and can support the technological innovations, these can be related to quantization 1,2, QFT, Holography, Relativity, Black holes etc. These are general theories that can be used to undrstand and model for the computers to understand and infer 
