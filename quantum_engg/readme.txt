@@ -1,0 +1,1 @@
+This provides the framework, methods and processes for engineering of the quantum devices and systems, especially the various devices that need to follow quantizations 1 and 2 and provide hi-noise resiliency, hi-quality physical and logical qubits with least error in bits, flips or phase etc   
